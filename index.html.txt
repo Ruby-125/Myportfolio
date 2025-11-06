@@ -34,11 +34,12 @@
 </head>
 <body>
   <div class="card">
-    <h1>Helloo, I’m Pookie 👋</h1>
+    <h1>Hello, I’m Pookie 👋</h1>
     <p>I’m learning DevOps, Docker, Jenkins, and Kubernetes!</p>
     <p>💼 <b>Skills:</b> HTML | Docker | Jenkins | Kubernetes | GitHub</p>
     <p>📫 <b>Contact:</b> <a href="mailto:pookie@example.com">pookie@example.com</a></p>
   </div>
 </body>
 </html>
+
 
